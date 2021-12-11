@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/login-form-wp/static/css/main.a617e044.chunk.css",
-    "main.js": "/login-form-wp/static/js/main.1562a68a.chunk.js",
-    "main.js.map": "/login-form-wp/static/js/main.1562a68a.chunk.js.map",
-    "runtime-main.js": "/login-form-wp/static/js/runtime-main.be13c2e0.js",
-    "runtime-main.js.map": "/login-form-wp/static/js/runtime-main.be13c2e0.js.map",
-    "static/js/2.62c7c043.chunk.js": "/login-form-wp/static/js/2.62c7c043.chunk.js",
-    "static/js/2.62c7c043.chunk.js.map": "/login-form-wp/static/js/2.62c7c043.chunk.js.map",
-    "static/js/3.1dc63862.chunk.js": "/login-form-wp/static/js/3.1dc63862.chunk.js",
-    "static/js/3.1dc63862.chunk.js.map": "/login-form-wp/static/js/3.1dc63862.chunk.js.map",
+    "main.css": "/login-form-wp/static/css/main.7f66539e.chunk.css",
+    "main.js": "/login-form-wp/static/js/main.0b89d86a.chunk.js",
+    "main.js.map": "/login-form-wp/static/js/main.0b89d86a.chunk.js.map",
+    "runtime-main.js": "/login-form-wp/static/js/runtime-main.f9ee4497.js",
+    "runtime-main.js.map": "/login-form-wp/static/js/runtime-main.f9ee4497.js.map",
+    "static/js/2.1ab96908.chunk.js": "/login-form-wp/static/js/2.1ab96908.chunk.js",
+    "static/js/2.1ab96908.chunk.js.map": "/login-form-wp/static/js/2.1ab96908.chunk.js.map",
+    "static/js/3.7db0691a.chunk.js": "/login-form-wp/static/js/3.7db0691a.chunk.js",
+    "static/js/3.7db0691a.chunk.js.map": "/login-form-wp/static/js/3.7db0691a.chunk.js.map",
     "index.html": "/login-form-wp/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/login-form-wp/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.62c7c043.chunk.js.LICENSE.txt": "/login-form-wp/static/js/2.62c7c043.chunk.js.LICENSE.txt",
+    "static/css/main.7f66539e.chunk.css.map": "/login-form-wp/static/css/main.7f66539e.chunk.css.map",
+    "static/js/2.1ab96908.chunk.js.LICENSE.txt": "/login-form-wp/static/js/2.1ab96908.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/login-form-wp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be13c2e0.js",
-    "static/js/2.62c7c043.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.1562a68a.chunk.js"
+    "static/js/runtime-main.f9ee4497.js",
+    "static/js/2.1ab96908.chunk.js",
+    "static/css/main.7f66539e.chunk.css",
+    "static/js/main.0b89d86a.chunk.js"
   ]
 }
